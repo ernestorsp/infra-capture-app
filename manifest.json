@@ -1,13 +1,22 @@
 {
   "name": "INFRA Capture",
-  "short_name": "Capture",
+  "short_name": "INFRA Capture",
   "start_url": "/infra-capture-app/",
   "scope": "/infra-capture-app/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#1557ff",
+  "orientation": "portrait",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
